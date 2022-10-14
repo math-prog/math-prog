@@ -1,6 +1,6 @@
 # Matheus da Silva
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathsilva-ds/)     [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ma_theusso/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathsilva-ds/)     
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus131998@gmail.com)
 
 
@@ -47,13 +47,12 @@ Projeto que busca fazer uma previsão de vendas para uma rede de lojas para as 6
 
 Projeto que tem como objetivo usar dados de transações financeiras para, usando algoritmos e técnicas de machine learning, detectar fraudes e assim evitar que a empresa perca parte da receita com a indenização de clientes. Através de análises e estudo dos dados buscou-se entender quais fatores e atributos mais impactavam e quais características poderiam caracterizar uma fraude. Com uma detecção mais acertiva de atividades fraudulentas é possível obter um retorno finaceiro maior para a empresa e uma maior qualidade do serviço e segurança para os clientes.  A performance obtida com o modelo resultaria em um lucro de $24.014.962,75, de acordo com o modelo de negócios da empresa descrito na definição do problema.
 
-### **[Previsão de Alugueis - Em desenvolvimento](https://github.com/math-prog/house_predict)** 
-
-Projeto que visa criar um plano de ação para diminuir o número de clientes em churn e mostrar o retorno financeiro da solução para a empresa. Através de dados de uma empresa bancária, buscou-se utilizar ferramentas de análise, visualização e machine learning para encontrar clientes com mais probabilidade de churn e assim classificá-los, tomando medidas que possam diminuir a propensão ao churn, e então calcular o retorno financeiro desta solução para a empresa. A performance do modelo resultaria em um retorno de $938.235,39 a partir de um investimento de $9.800, de acordo com o modelo de negócios da empresa descrito na definição do problema.
-
 ### **[Insurance Cross Selling - Em desenvolvimento](https://github.com/math-prog/cross-sell)** 
 
 Projeto que utiliza dados de uma seguradora de saúde que realizou uma pesquisa para verificar o interesse dos clientes em um possível seguro de automóvel. O objetivo então é analisar e estudar os dados para conseguir classificar e rankear os clientes de acordo com seu interesse, para que os clientes com maior probabilidade de adquirir o seguro sejam priorizados e colocados nas primeiras posições do ranking. Deste modo, otimizando o processo de contato da equipe comercial e auxiliando na tomada de decisões mais acertivas. Como resultado foi obtido uma performance que resultaria em uma assertividade quase 3 vezes maior do que com o uso de algum método aleatório para selecionar os clientes, de acordo com o modelo de negócios da empresa descrito na definição do problema. Os resultados do modelo podem ser acessados através de uma planilha do Google Sheets. 
 
-Footer
+### **[Previsão de Alugueis - Em desenvolvimento](https://github.com/math-prog/house_predict)** 
 
+Projeto que visa criar uma ferramenta que dê uma previsão do valor de aluguel de imóveis na região Sudeste do Brasil, afim de agilizar as avalições para corretores imobiliários, sem que seja necessária a visita ao imóvel, fornecendo os dados necessários para a solução.
+
+Footer
