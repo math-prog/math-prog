@@ -1,12 +1,12 @@
 <h1 align = center> Matheus da Silva </h1>
 
-## About
+## Sobre
 
 Olá, me chamo Matheus, sou engenheiro mecâncico formado pela UniEvangélica e cientista de dados certificado pela Data Science Academy e atualmente trabalho como Analista Administrativo. Além das atividades que desenvolvo dentro da empresa procuro realizar projetos práticos de data science como forma de estudo, com abordagens que me permitam explorar diferentes tipos de problemas enfrentados pelas empresas, propondo soluções através de ferramentas de Data Analytics como geração de insights e uso de Machine Learning. Os detalhes de cada projeto podem ser encontrados na seção abaixo. 
 
 Como profissional busco sempre estar aprendendo coisas novas de uma forma independente que possam agregar valor ao meu trabalho e aos meus estudos. Em meus projetos de ciência de dados procuro desenvolver soluções relevantes e eficientes para melhorar os resultados da empresa.
 
-## Contact
+## Contato
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathsilva-ds/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus131998@gmail.com)
 
