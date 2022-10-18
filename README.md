@@ -50,5 +50,3 @@ Projeto que utiliza dados de uma seguradora de saúde que realizou uma pesquisa 
 ### **[Previsão de Alugueis - Em desenvolvimento](https://github.com/math-prog/house_predict)** 
 
 Projeto que visa criar uma ferramenta que dê uma previsão do valor de aluguel de imóveis na região Sudeste do Brasil, afim de agilizar as avalições para corretores imobiliários, sem que seja necessária a visita ao imóvel, fornecendo os dados necessários para a solução.
-
-Footer
