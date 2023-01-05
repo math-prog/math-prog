@@ -43,7 +43,7 @@ Projeto para realizar uma previsão de vendas para uma rede de lojas para as 6 s
 
 Projeto com objetivo de usar dados de transações financeiras para, usando algoritmos e técnicas de machine learning, detectar fraudes e assim evitar que a empresa perca parte da receita com a indenização de clientes. Através de análises e estudo dos dados buscou-se entender quais fatores e atributos mais impactavam e quais características poderiam caracterizar uma fraude. Com uma detecção mais acertiva de atividades fraudulentas é possível obter um retorno finaceiro maior para a empresa e uma maior qualidade do serviço e segurança para os clientes.  A performance obtida com o modelo resultaria em um lucro de $24.014.962,75, de acordo com o modelo de negócios da empresa descrito na definição do problema.
 
-### **[Análise da capacidade hospitalar no Estado de Goiás antes e durante a pandemia de COVID-19](https://github.com/math-prog/covid19_leitos_go)**
+### **[Análise da capacidade hospitalar no Estado de Goiás durante a pandemia de COVID-19](https://github.com/math-prog/covid19_leitos_go)**
 
 O projeto trata-se de uma análise sobre os leitos hospitalares no estado de Goias obtidos a partir do repositório DATASUS, observando a distribuição da capacidade hospitalar total durante os anos de 2019 a 2022, a evolução e declínio de leitos antes, durante e após a pandemia, comparação da quantidade de Leitos Totais e SUS. Será criado um dashboard acompanhando o período de Janeiro de 2019 a Novembro de 2022, mostrando os valores totais de Leitos Existentes, Leitos SUS e não SUS por Município.
 
